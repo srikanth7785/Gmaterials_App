@@ -6,13 +6,13 @@
 
 <h1 align="center">Gmaterials</h1>
 
-<h4 align="center">
+<P align="center">
 Gmaterials is all about accessing materials for the students of GITAM institute of technology, one stop destination for all GITAMITES. Student Portal,Glearn,GIT Results and G-Events can be accessed easily in a single touch.
-</h4>
+</p>
 
-<h4 align="center">
+<p align="center">
   View it on <a href = "https://play.google.com/store/apps/details?id=com.we.intialp" target = "_blank">Play Store</a>
-</h4>
+</p>
 
 ___
 
