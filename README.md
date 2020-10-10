@@ -64,11 +64,11 @@ ___
 
 |Quick Actions|Offline materials|
 |:---:|:---:|
-|<img src="https://pbs.twimg.com/media/EYddR7PU0AAHvTC?format=jpg&name=large" alt = "Quick Actions" width="175" height="350">|<img src="https://media-exp1.licdn.com/dms/image/C5622AQEx1bNAo4bBsA/feedshare-shrink_800/0?e=1593648000&v=beta&t=2MRAhm4xQVnE8oQYxEfLmBzrknOeH0B-Ev5SIkXRMg4" alt = "Offline materials" width="175" height="350">
+|<img src="https://pbs.twimg.com/media/EYddR7PU0AAHvTC?format=jpg&name=large" alt = "Quick Actions" width="175" height="350">|<img src="https://lh3.googleusercontent.com/W4jfoWcGFat-ilY5G9re-19SQgmBDdLIGabr0prJMwZHyTU82tivZxfYxJ5wm1kfwIkS=w720-h310-rw" alt = "Offline materials" width="175" height="350">
 
 |G-Events|1K+downloads with 4.8⭐|
 |:---:|:---:|
-|<img src="https://media-exp1.licdn.com/dms/image/C5622AQGapiWnaxr_AQ/feedshare-shrink_800/0?e=1593648000&v=beta&t=2uP9GyjbWXvNrD_BMH66bnffbSCi8Fe6Tgo5BNBvTog" alt = "G-Events" width="175" height="350">|<img src="https://media-exp1.licdn.com/dms/image/C5622AQFfSdSOgRa65A/feedshare-shrink_800/0?e=1593648000&v=beta&t=y2JZI72jo0AOVbM5G-ts-pQVG-5JVMtPnAfR_5ioJGA" alt = "1K+donwloads with 4.8⭐" width="175" height="350">
+|<img src="https://lh3.googleusercontent.com/sfOK468eEPnpdrHHMY9PCOpmbKRHcxJZH-pMQc0V7X54ZmcOucQenrEZ6rC382_0dgA=w720-h310-rw" alt = "G-Events" width="175" height="350">|<img src="https://media-exp1.licdn.com/dms/image/C5622AQFfSdSOgRa65A/feedshare-shrink_800/0?e=1593648000&v=beta&t=y2JZI72jo0AOVbM5G-ts-pQVG-5JVMtPnAfR_5ioJGA" alt = "1K+donwloads with 4.8⭐" width="175" height="350">
 
 |All materials|[Get a Coffee☕](http://rzp.io/l/supportgmaterials)|
 |:---:|:---:|
