@@ -7,7 +7,7 @@
 <h1 align="center">Gmaterials</h1>
 
 <P align="center">
-Gmaterials is all about accessing materials for the students of GITAM institute of technology, one stop destination for all GITAMITES. Student Portal,Glearn,GIT Results and G-Events can be accessed easily in a single touch.
+Gmaterials is all about accessing materials for the students of GITAM institute of technology, one-stop destination for all GITAMITES. Student Portal,Glearn,GIT Results and G-Events can be accessed easily in a single touch.
 </p>
 
 <p align="center">
@@ -17,22 +17,21 @@ Gmaterials is all about accessing materials for the students of GITAM institute 
 ___
 
 ### Status:
-* **1K+ Downloads** 🔥
+* **3.5K+ Downloads** 🔥
 * _900+ Active Users_ 📲
 * ~100 daily users. 📚
 * Rated for 4.8⭐
 ___
 
->**Note:** This repo is only to track the progress of Gmaterials App development and let the users know whats going on with the App. This repository doesn't contain any code as I can't(don't want to) open source it.
->> Well, to be honest, this repo is only to showcase(to those who don't know) that there is one of my apps called Gmaterials existing on Play Store.
+>**Note:** This repo is only to track the progress of Gmaterials App development and let the users know what's going on with the App. This repository doesn't contain any code 🙂.
 ___
 
 ### Features:
 * Well summarized materials, All under one roof. 📔
 * Materials for all semesters of CSE Department. 👨‍🎓
-* Users can get to know the events of any of the 3 campuses just with in a single touch. 🤳
+* Users can get to know the events of any 3 campuses, just with in a single touch. 🤳
 * All the materials can be downloaded. 📥
-* All of the downloaded materials can be accessed in the "Offline materials" page. 📁
+* All the downloaded materials can be accessed in the "Offline materials" page. 📁
 * Users can filter materials according to the subject. 🔽
 * Users can access GLearn and Student Portal in the App itself. 📲
 * Integrated [Quick Actions](https://developer.android.com/guide/topics/ui/shortcuts). 💥
@@ -41,7 +40,7 @@ ___
 ___
 
 #### Sub Modules
-I made few minimalistic apps and made them as public repositories which implement some of the features of __Gmaterials__, as stated below.
+Below are a few minimalistic apps, public repositories, which implement some of the features of __Gmaterials__.
 
 Feature in Gmaterials | Seperate Repository |
 ---|---|
@@ -68,7 +67,7 @@ ___
 
 |G-Events|1K+downloads with 4.8⭐|
 |:---:|:---:|
-|<img src="https://lh3.googleusercontent.com/sfOK468eEPnpdrHHMY9PCOpmbKRHcxJZH-pMQc0V7X54ZmcOucQenrEZ6rC382_0dgA=w720-h310-rw" alt = "G-Events" width="175" height="350">|<img src="https://media-exp1.licdn.com/dms/image/C5622AQFfSdSOgRa65A/feedshare-shrink_800/0?e=1593648000&v=beta&t=y2JZI72jo0AOVbM5G-ts-pQVG-5JVMtPnAfR_5ioJGA" alt = "1K+donwloads with 4.8⭐" width="175" height="350">
+|<img src="https://lh3.googleusercontent.com/sfOK468eEPnpdrHHMY9PCOpmbKRHcxJZH-pMQc0V7X54ZmcOucQenrEZ6rC382_0dgA=w720-h310-rw" alt = "G-Events" width="175" height="350">|<img src="https://media-exp1.licdn.com/dms/image/C5622AQFfSdSOgRa65A/feedshare-shrink_800/0?e=1593648000&v=beta&t=y2JZI72jo0AOVbM5G-ts-pQVG-5JVMtPnAfR_5ioJGA" alt = "1K+downloads with 4.8⭐" width="175" height="350">
 
 |All materials|[Get a Coffee☕](http://rzp.io/l/supportgmaterials)|
 |:---:|:---:|
