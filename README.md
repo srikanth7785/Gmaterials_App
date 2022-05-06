@@ -24,6 +24,8 @@ ___
 ___
 
 >**Note:** This repo is only to track the progress of Gmaterials App development and let the users know what's going on with the App. This repository doesn't contain any code 🙂.
+
+> Find the latest updates about ongoing work for the upcoming update [here](https://github.com/srikanth7785/Gmaterials_App/blob/master/DevelopmentJourney.md).
 ___
 
 ### Features:
