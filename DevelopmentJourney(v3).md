@@ -51,8 +51,9 @@ Ohhh mmmyyy goodnessss!!!! I'm really thankful to god that it's working fine at 
 
 But..well, it's working..right!
 >Remembering motivation #2 😏
+> >If it works, it works - isn't called 'working'.
 
-So,how is it?...well, for starters, there are no models in place..didn't write any custom functions for widgets.. didn't break into individual components..no state management used.. literally, there are 5-6 screens in app and there are same number of files in `lib` folder😬 everything is written inline, just like an English paragraph😶. To give more context, once have a look at [Web_scrapping_with_flutter](https://github.com/srikanth7785/Web_Scrapping_with_Flutter) repo which demonstrates the `G-Events` feature. But, guess how it's implemented in app?
+So, how is it?...well, for starters, there are no models in place..didn't write any custom functions for widgets.. didn't break into individual components..no state management used.. literally, there are 5-6 screens in app and there are same number of files in `lib` folder😬 everything is written inline, just like an English paragraph😶. To give more context, once have a look at [Web_scrapping_with_flutter](https://github.com/srikanth7785/Web_Scrapping_with_Flutter) repo which demonstrates the `G-Events` feature. But, guess how it's implemented in app?
 ```dart
 .
 .
@@ -81,7 +82,7 @@ So, bullet points, to-do:
 * Code-wise - killing my brain already🧠
 * Uniform font sizes - check✔️
 * Remove "not necessary" icons - congestion free
-* Nothing's aligned properly - Noted, using `Designer Tools` app to make sure everything's aligned.
+* Nothing's aligned properly - Noted, take care of this!
 
 ...... To be continued......
 
