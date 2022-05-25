@@ -9,7 +9,7 @@ Ok, let me start with a little motivation for myself.
 * Nothing is a question of how?, it's just a question of 'what' "exactly" needs to be done.
 * No need to reinvent the wheel, everything's just a Google search away.
 * I ain't no developer, if I can't write maintanable code.
-* It's not gibberish, it's just English. Literally, just like writing an English essay, organise everything structurally and sequentially. Now, what is gibberish? Exactly, that's the point!
+* It's not gibberish, it's just English. Literally, just like writing an English essay, organise everything structurally and sequentially. Now, what is gibberish? Exactly!
 
 Well..well..well! that's enough said. This is how it's going.
 ___
