@@ -80,6 +80,7 @@ InkWell(
 
 >as motivation #8 says..<br>
 >8. I ain't no developer, if I can't write maintanable code.
+
 Hhmmmmm... so, that's a lot of work needed here. And a lot of brainstorming needs to be done. Ok, kinda fills the plate already, let's see what else is waiting in store.
 ___
 Ok, that's enough observations on current one.  Let's start the new one 👀
@@ -92,7 +93,7 @@ So, bullet points, to-do:
 * Nothing's aligned properly - Noted, take care of this!
 ___
 
-> been off for a while, fell sick. getting back with double energy!!🥳
+> -- been off for a while, fell sick. getting back with double energy!!🥳 --
 
 ### Home Screen -
 
@@ -100,19 +101,21 @@ started working on the new design that I drew. looks good, for now atleast!
 
 > So, how did I come up with this UI?
 
-looking back to current version, what makes the current home screen 'not good' is that it is having nothing but the titles of differenct branches like `Computer Science and Engineering`, `Information Technology` and 3 other branches making a total of 5. but, It is just like filling up the space with big font and using large `Container`s. yeah, it sucks. 
+looking at current version, what makes the current home screen 'not good' is that it is having nothing but the titles of differenct branches like `Computer Science and Engineering`, `Information Technology` and 3 other branches making a total of 5. but, It is just like filling up the space with big font and using large `Container`s. yeah, it sucks. 
+
+// TO DO: insert current home screen image.
 
 so, ❗❗ NO LARGE CONTAINERS ❗❗ NO BIG FONTS ❗❗ DON'T JUST FILL THE SPACE, UTILISE IT ❗❗
 
 <!-- ok, so, the new one is far better I feel. done. nice! -->
 
-So, lets see what's needs to be there on an home screen?
+So, lets see what's needs to be there on home screen?
 
 In current version, there's no backend. but, as I'm planning to use Firebase as backend in the new version and with that also the Google SignIn. there's should be some user information shown on the home screen.
 
 So, the top part of screen can have user info and can say 'hi' to user or some kind of welcoming message.
 
->Nice. that makes a lot of sense.
+>Nice. that makes sense.
 
 next - 'NO LARGE CONTAINERS'
 
@@ -135,7 +138,7 @@ well, to download the required materials, user have to go the concerned screen a
 there can be a `Recent Downloads` section on the home section which has the 4 or 5 recently downloaded materials and user can access them from the home screen directly.
 > that seems to be a good idea. contextual too !!
 
-but, before getting the hopes high, can it be achieved? like, can I code it?
+but, before getting the hopes high, how can it be achieved? like, can I code it?
 
 > motivation #6 #7 to the rescue! <br>
 > 6. Nothing is a question of how?, it's just a question of 'what' "exactly" needs to be done. <br>
@@ -170,7 +173,7 @@ but, before getting the hopes high, can it be achieved? like, can I code it?
  )
  ```
  
- So, adding a new `SEQ_NO` column, also making corresponding changes at all places needed, did the thing and it can now give the downloaded materials in the most recent ones first. like this,
+ So, adding a new `SEQ_NO` column, also making corresponding changes at all places needed, did the thing and it can now give the downloaded materials with the most recent ones first. like this,
 ```dart
 foo([int top = 9999]){
     await db.query(
@@ -192,7 +195,51 @@ No large containers. no empty space. not big font size used. looks just fine!
 
 -- done with home screen, UI part. --
 
-### Subject Details Screen -
+### Branch Details Screen -
+
+All I see is Icons and lots of empty space around. could've been much better..much much better!!
+
+> Well, let's make it better.
+
+but how? how?
+
+again, let's try to think clearly.
+
+* what all would be needed to shown `BranchDetails` Screen?
+    * BranchTitle - can be included in the `AppBar`.
+    * SubjectTitle - some kind of `Container` can be used for this.
+    * SemTitle - a wrapper for all it's subjects.
+
+So, basically, there are going to be a bunch of `Semester`(s) with a bunch of `SubjectTitle`(s) in each of it.
+
+hhhhmmmmm.....ssssooooo...it's again, getting back to the old design 😭
+
+can't I make it better!😢 <br> thought about it for few hours. tried few things. more or less, everything getting at the same.
+
+> Inner me : go out. sleep. watch some <i>videos</i>. do something else and then come back with a fresh mind. <br> aaaannnnndddd, 💥here comes a fresh thought💥 - just remove the sharp corners. Well, lets try.
+
+quickly, grabbed a pen and paper. drew what came to my mind. after a couple of tries, this is what I came up with.
+
+// TO DO: insert branch details hand drawn image here.
+
+So, what makes this different? basically, like the thought, no sharp corners. each `Semester` is a `Card` and each `SubjectTitle` is a `Chip`. nnnniiiiiicccccceeeeeee........
+
+--- here on it starts to get a little complicated. here's how.
+
+`Branch Screen` UI is sorted. but, I didn't wanted to give some `lorem ipsum` things. So, what I did? I included some `Dummy Data` folder which has all the dummy information needed for each of the screen which mimics the remote data that would to be retrieved from the firebase. but, as of now, with this dummy data, all the models can be developed accordingly and can be checked if they fit into. 
+
+nice.
+
+done.
+
+// TO DO: insert new branch details screen image here.
+
+### Subject Details Screen - 
+
+man oh man! I guess, I skipped this in the 'Observations on current app' part. or wait, actually, I saved it for the best part.
+> just pretend that you believed it 😅
+
+The code for this screen is the most horribliest, yeah I needed to make that word up, part of the entire app code. literally, It took me one whole day just to understand this screen code that I, myself, wrote earlier😬.
 
 
 ...... To be continued......
